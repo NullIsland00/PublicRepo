@@ -1,0 +1,353 @@
+{
+    "displayFieldName": "",
+    "fieldAliases": {
+        "OBJECTID": "OBJECTID",
+        "Type": "Type",
+        "Name": "Name",
+        "Time": "Time"
+    },
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID"
+        },
+        {
+            "name": "Type",
+            "type": "esriFieldTypeString",
+            "alias": "Type",
+            "length": 255
+        },
+        {
+            "name": "Name",
+            "type": "esriFieldTypeString",
+            "alias": "Name",
+            "length": 255
+        },
+        {
+            "name": "Time",
+            "type": "esriFieldTypeDate",
+            "alias": "Time",
+            "length": 8
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 1,
+                "Type": "TypeAAA",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -12176908.5484,
+                "y": 9401706.1350999996
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 2,
+                "Type": null,
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -10562760.206,
+                "y": 6881369.249499999
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 3,
+                "Type": null,
+                "Name": "This is a name",
+                "Time": null
+            },
+            "geometry": {
+                "x": -8750383.1196999997,
+                "y": 6060135.8822000027
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 4,
+                "Type": "TypeZ",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -7702602.6166999992,
+                "y": 6371638.1939999983
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 5,
+                "Type": null,
+                "Name": "Name",
+                "Time": 1653868800000
+            },
+            "geometry": {
+                "x": -7277826.7370999996,
+                "y": 7249508.3451000005
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 6,
+                "Type": "TypeAAA",
+                "Name": null,
+                "Time": 1653350400000
+            },
+            "geometry": {
+                "x": -11667177.492899999,
+                "y": 6683140.5056999996
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 7,
+                "Type": "TypeAAA",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -13734420.107000001,
+                "y": 8523835.9839000031
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 8,
+                "Type": "TypeAAA",
+                "Name": "This name field has a link to canada ca",
+                "Time": null
+            },
+            "geometry": {
+                "x": -13734420.107000001,
+                "y": 9713208.446800001
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 9,
+                "Type": null,
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -12346818.9003,
+                "y": 11553903.924999997
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 10,
+                "Type": "TypeEEE",
+                "Name": null,
+                "Time": 1644278400000
+            },
+            "geometry": {
+                "x": -11497267.141100001,
+                "y": 9373387.7431000024
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 11,
+                "Type": "TypeEEE",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -8212333.6721999999,
+                "y": 11242401.613300003
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 12,
+                "Type": "TypeBBB",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -7844194.5766000003,
+                "y": 9571616.4869000018
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 13,
+                "Type": "TypeDDD",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -9854800.4066000003,
+                "y": 9684890.0547999963
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 14,
+                "Type": "TypeBBB",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -9656571.6627999991,
+                "y": 7164553.1692000031
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 15,
+                "Type": "TypeAAA",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -10676033.7739,
+                "y": 8467199.200000003
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 16,
+                "Type": "TypeX",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -11270720.0053,
+                "y": 7730921.0086999983
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 17,
+                "Type": "TypeFFF",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -12488410.860100001,
+                "y": 7362781.9130000025
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 18,
+                "Type": "TypeX",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -13196370.659499999,
+                "y": 6343319.8020000011
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 19,
+                "Type": "TypeEEE",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -13734420.107000001,
+                "y": 7419418.6969999969
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 20,
+                "Type": "TypeEEE",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -13083097.091600001,
+                "y": 7419418.6969999969
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 21,
+                "Type": "TypeEEE",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -12148590.156500001,
+                "y": 8835338.295599997
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 22,
+                "Type": "TypeFFF",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -11978679.8046,
+                "y": 8325607.2400999963
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 23,
+                "Type": "TypeEEE",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -12006998.196600001,
+                "y": 8014104.9284000024
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 24,
+                "Type": "TypeY",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -8240652.0642000008,
+                "y": 7645965.8326999992
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 25,
+                "Type": "TypeEEE",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -8353925.6320999991,
+                "y": 8014104.9284000024
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 26,
+                "Type": "TypeEEE",
+                "Name": null,
+                "Time": null
+            },
+            "geometry": {
+                "x": -8976930.2555,
+                "y": 7645965.8326999992
+            }
+        }
+    ]
+}
