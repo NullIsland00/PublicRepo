@@ -1,2 +1,4 @@
 eventId,eventTime,FIELDX,location (lat/lon),mgrs,country,label/displayName,ecEventSummaryUrl,FIELDY,FIELDZ,productType #1,URL #1,productType #2,URL #2,productType #3,URL #3
 123-1,12:34,___,45.424606 -75.699529,123abc,Canada,AAA,https://github.com/search?q=aaa,___,___,BBB,https://github.com/search?q=bb1,BBB,https://github.com/search?q=bb2,CCC,https://github.com/search?q=cc1
+123-678,12:34,___,45 -75,123abc,Canada,BBB,https://github.com/search?q=aaa,___,___,BBB,https://github.com/search?q=bb1,BBB,https://github.com/search?q=bb2,CCC,https://github.com/search?q=cc1
+000-000,12:34,___,46 -75,123abc,Canada,BBB,https://github.com/search?q=aaa,___,___,BBB,https://github.com/search?q=bb1,BBB,https://github.com/search?q=bb2,CCC,https://github.com/search?q=cc1
